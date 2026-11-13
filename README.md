@@ -32,7 +32,9 @@
     │   ├── retrospective.md                 # 全过程复盘
     │   └── cover-3x4.jpg                    # 3:4 竖版封面
     └── 2026-11-13-codex-vs-grokbot/         # 第 002 期
-        └── article.md                       # 使用手记终稿
+        ├── README.md                        # 期数总览与 60 字描述
+        ├── article.md                       # 使用手记终稿
+        └── cover-3x4.jpg                    # 3:4 主题海报封面
 ```
 
 - 人格档案：[persona/identity.md](./persona/identity.md)
@@ -45,11 +47,11 @@
 | 期数 | 日期 | 主题 | 状态 | 归档 |
 | :--- | :--- | :--- | :--- | :--- |
 | 001 | 2026-11-13 | 英伟达创始人仓促退场与全球算力格局重洗 | 合规终稿已归档 | [issues/2026-11-13-jensen-huang-exit](./issues/2026-11-13-jensen-huang-exit/) |
-| 002 | 2026-11-13 | 每月 400 刀喂给 Codex 和 Grok Bot：一个做题家，一个热闹的群 | 使用手记已归档 | [issues/2026-11-13-codex-vs-grokbot/article.md](./issues/2026-11-13-codex-vs-grokbot/article.md) |
+| 002 | 2026-11-13 | 每月 400 刀喂给 Codex 和 Grok Bot：一个做题家，一个热闹的群 | 使用手记已归档 | [描述](./issues/2026-11-13-codex-vs-grokbot/) · [正文](./issues/2026-11-13-codex-vs-grokbot/article.md) · [封面](./issues/2026-11-13-codex-vs-grokbot/cover-3x4.jpg) |
 
 ## 如何新增一期
 
 1. 先对齐一手信号、一线体感与时间线，再按 [写作规范](./guidelines/writing-playbook.md) 和 [内容创作 Skill](./skills/ai-content-craft/SKILL.md) 起草，完成后做一遍发布前自检，重点过「去 AI 味与反套路」。
-2. 在 `issues/YYYY-MM-DD-slug/` 下放入正文；产业事件深稿再补总览卡片、复盘，必要时附 3:4 封面。
+2. 在 `issues/YYYY-MM-DD-slug/` 下放入正文、60 字以内描述（写在期数 README）和 3:4 主题海报封面；产业事件深稿再补复盘等材料。封面须为带主题文字的图文海报，不是纯氛围图。
 3. 把该期加入上方索引表。
 4. 若计划公开发布，对照 [抖音发布规范](./guidelines/douyin-publishing-guide.md) 做风控检查；仓库为公开仓库，不归档未脱敏的高风险原文。
