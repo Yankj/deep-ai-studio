@@ -5,6 +5,7 @@
 - 状态：使用手记已归档，含主题海报封面与 60 字描述
 - 正文：[article.md](./article.md)
 - 封面：[cover-3x4.jpg](./cover-3x4.jpg)
+- 博客：[blog.heydusk.com 原文](https://blog.heydusk.com/insight/2026-11-13_思考_每月400刀喂给codex和grokbot)
 
 ## 作品描述（60 字以内）
 
