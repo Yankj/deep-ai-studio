@@ -6,6 +6,7 @@
 - 终稿：[article-final.md](./article-final.md)
 - 复盘：[retrospective.md](./retrospective.md)
 - 封面：[cover-3x4.jpg](./cover-3x4.jpg)
+- 博客：[blog.heydusk.com 原文](https://blog.heydusk.com/insight/2026-11-13_思考_执掌英伟达33年两周仓促退场)
 
 ## 标题备选
 
