@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+
+# Editors / IDEs
+*~
+*.swp
+*.swo
+.idea/
+.vscode/
+*.code-workspace
+.cursor/
+
+# Env and secrets (never commit)
+.env
+.env.*
+!.env.example
+
+# Logs and caches
+*.log
+.cache/
