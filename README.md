@@ -34,7 +34,7 @@
 └── issues/
     ├── 2026-11-13-jensen-huang-exit/           # 第 001 期：终稿、复盘、封面
     ├── 2026-11-13-codex-vs-grokbot/            # 第 002 期：手记、封面
-    ├── 2026-11-14-ai-testing-e2e/              # 第 003 期：正文、平台风控复盘
+    ├── 2026-11-14-ai-testing-e2e/              # 第 003 期：正文、封面、平台风控复盘
     └── 2026-11-14-third-country-ai/            # 第 004 期：正文、封面
 ```
 
@@ -54,7 +54,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 001 | 2026-11-13 | [执掌英伟达33年，两周仓促退场：算力牌桌正在重洗](./issues/2026-11-13-jensen-huang-exit/) | 行业观察 | [终稿](./issues/2026-11-13-jensen-huang-exit/article-final.md) · [复盘](./issues/2026-11-13-jensen-huang-exit/retrospective.md) · [封面](./issues/2026-11-13-jensen-huang-exit/cover-3x4.jpg) · [博客](https://blog.heydusk.com/insight/2026-11-13_思考_执掌英伟达33年两周仓促退场) |
 | 002 | 2026-11-13 | [每月 400 刀喂给 Codex 和 Grok Bot：一个做题家，一个热闹的群](./issues/2026-11-13-codex-vs-grokbot/) | 使用手记 | [正文](./issues/2026-11-13-codex-vs-grokbot/article.md) · [封面](./issues/2026-11-13-codex-vs-grokbot/cover-3x4.jpg) · [博客](https://blog.heydusk.com/insight/2026-11-13_思考_每月400刀喂给codex和grokbot) |
-| 003 | 2026-11-14 | [AI测试落地，最大的瓶颈卡在端到端](./issues/2026-11-14-ai-testing-e2e/) | 技术实践 | [正文](./issues/2026-11-14-ai-testing-e2e/article.md) · [平台风控复盘](./issues/2026-11-14-ai-testing-e2e/platform-risk-retrospective.md) · [博客](https://blog.heydusk.com/insight/2026-11-14_思考_ai测试落地最大的瓶颈卡在端到端) · 封面待重做 |
+| 003 | 2026-11-14 | [AI测试落地，最大的瓶颈卡在端到端](./issues/2026-11-14-ai-testing-e2e/) | 技术实践 | [正文](./issues/2026-11-14-ai-testing-e2e/article.md) · [封面](./issues/2026-11-14-ai-testing-e2e/cover-3x4.jpg) · [平台风控复盘](./issues/2026-11-14-ai-testing-e2e/platform-risk-retrospective.md) · [博客](https://blog.heydusk.com/insight/2026-11-14_思考_ai测试落地最大的瓶颈卡在端到端) |
 | 004 | 2026-11-14 | [大模型榜上找不出第三国，他们在打另外几盘棋](./issues/2026-11-14-third-country-ai/) | 行业观察 | [正文](./issues/2026-11-14-third-country-ai/article.md) · [封面](./issues/2026-11-14-third-country-ai/cover-3x4.jpg) · [博客](https://blog.heydusk.com/insight/2026-11-14_思考_大模型榜上找不出第三国) |
 
 ## 博客系列进度
